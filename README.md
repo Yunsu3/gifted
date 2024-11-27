@@ -132,8 +132,4 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### 𝟓. 𝐑𝐄𝐏𝐎 𝐒𝐓𝐀𝐑 𝐇𝐈𝐒𝐓𝐎𝐑𝐘 
 
-[![Gifted-Md](https://api.star-history.com/svg?repos=mouricedevs/gifted&type=Timeline)](#)
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
